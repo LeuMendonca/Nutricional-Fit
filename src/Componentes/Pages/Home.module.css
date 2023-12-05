@@ -1,0 +1,12 @@
+.calendario{
+    border: 1px solid black;
+    width: 85%;
+    height: 80%;
+    margin-top: 3em;
+
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
